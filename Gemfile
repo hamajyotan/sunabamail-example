@@ -65,4 +65,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "sunabamail", "~> 0.1.2", group: :development
+gem "sunabamail", "~> 0.1.3", group: :development
